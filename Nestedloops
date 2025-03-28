@@ -1,8 +1,10 @@
 Students= ["Pacificah", "Navros", "Akwabi"]
 for student in Students:
  
- print("students")
+ print(student, "is in our group\n")
 
-print("Things are getting tougher")
+print("Things are getting tough but we are getting tougher")
+
+
 
 
