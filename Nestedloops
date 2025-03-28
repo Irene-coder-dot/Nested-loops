@@ -1,3 +1,8 @@
 Students= ["Pacificah", "Navros", "Akwabi"]
 for student in Students:
+ 
  print("students")
+
+print("Things are getting tougher")
+
+
